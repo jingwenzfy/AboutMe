@@ -18,7 +18,7 @@ with col1:
 
 with col2:
     st.image("assets/me_with_tony_xu.jpg", caption="Meeting Tony Xu at the Berkeley alumni event")
-    st.image("assets/alumni_event_day.JPG", caption="UC Berkeley alumni celebration")
+    st.image("assets/alumni_event_day.jpg", caption="UC Berkeley alumni celebration")
 
 # --- Career & Team
 st.subheader("👨‍💻 Working with Teams")
